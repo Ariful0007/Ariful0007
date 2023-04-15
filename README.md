@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ariful0007](https://github.com/Ariful0007)
 
-- 💬 Ask me about **Java , C and C++**
+- 💬 Ask me about **Java, kotlin, Swift, C and C++**
 
 - 📫 How to reach me **arifulpub143@gmail.com**
 
